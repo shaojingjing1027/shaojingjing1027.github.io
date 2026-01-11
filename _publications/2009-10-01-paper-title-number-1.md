@@ -2,7 +2,7 @@
 title: "Deep learning for differentiation of osteolytic osteosarcoma and giant cell tumor around the knee joint on radiographs: a multicenter study"
 collection: publications
 category: manuscripts
-permalink: [publication/2009-10-01-paper-title-number-1](https://pubmed.ncbi.nlm.nih.gov/38321327/)
+permalink: https://pubmed.ncbi.nlm.nih.gov/38321327/
 excerpt: 'This article discusses the use of deep learning methods to differentiate osteolytic osteosarcoma from giant cell tumor of bone on plain radiographs of the knee.'
 date: 2024-02-07
 venue: 'Insights Imaging'
