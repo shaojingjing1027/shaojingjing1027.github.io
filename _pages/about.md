@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,6 @@ You can find my CV here: [Jingjing Shao's Curriculum Vitae](../assets/Curriculum
 
 [Email](mailto:2511110480@stu.pku.edu.cn) /  [Github](https://github.com/shaojingjing1027) / [Wechat](../images/wechat.jpg) 
 
- 
 
 A data-driven personal website
 ======
