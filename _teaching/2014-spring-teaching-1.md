@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "General Medical Technology"
+collection: Teaching Assistant
+type: "graduate course"
+permalink: /teaching/2025-09-18-spring
+venue: "Peking University, Institute of Medical Technology"
+date: 2025-09-18
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Through this teaching assistant experience, I not only gained a deeper understanding of the course but also strengthened my teamwork and sense of responsibility. I will strive to serve as a teaching assistant again in the future.
