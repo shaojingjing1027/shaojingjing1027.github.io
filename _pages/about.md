@@ -13,7 +13,7 @@ You can find my CV here: [Jingjing Shao's Curriculum Vitae](../assets/Curriculum
 
 [Email](mailto:2511110480@stu.pku.edu.cn) /  [Github](https://github.com/shaojingjing1027) / [Wechat](../images/wechat.jpg) 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ 
 
 A data-driven personal website
 ======
