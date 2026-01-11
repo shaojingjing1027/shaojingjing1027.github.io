@@ -3,7 +3,7 @@ title: "Domain adaptive detection framework for multi-center bone tumor detectio
 collection: publications
 category: manuscripts
 permalink: https://pubmed.ncbi.nlm.nih.gov/40154010/
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'To address the performance limitations and scarcity of annotated data in cross-center bone tumor X-ray detection caused by imaging variations, we propose a domain-adaptive detection framework incorporating multi-layer feature alignment, Wasserstein distance evaluation, instance-level feature alignment, and consistency regularization modules. By designing an attention-based domain discriminator that effectively bridges domain disparities, the model achieves average precision improvements of up to 2% and 10.7% on source and target domain test sets, respectively. This approach holds promise for resolving generalization challenges in multi-center scenarios.'
 date: 2025-07-12
 venue: 'Comput Med Imaging Graph'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
