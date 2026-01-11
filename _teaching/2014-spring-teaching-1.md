@@ -2,7 +2,7 @@
 title: "General Medical Technology"
 collection: Teaching Assistant
 type: "graduate course"
-permalink: /teaching/2025-09-18-spring
+permalink: /teaching/2025-09-18-teaching
 venue: "Peking University, Institute of Medical Technology"
 date: 2025-09-18
 location: "Beijing, China"
