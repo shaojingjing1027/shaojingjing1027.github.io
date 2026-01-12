@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doctor of Medicine in Diagnostic Radiology and Nuclear Medicine, Peking University Third Hospital, 2029 (expected)
+* Master of Medicine in Radiology, The First Affiliated Hospital of Sun Yat-sen University, 2025
+* Bachelor of Medicine in Radiation Medicine, Jilin University, 2021
 
 Work experience
 ======
