@@ -23,7 +23,7 @@ main:
   - title: "CV"
     url: /cv/
 
-    - title: "awards"
+  - title: "awards"
     url: /awards/
     
   # - title: "CV"
