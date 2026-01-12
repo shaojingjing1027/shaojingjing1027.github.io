@@ -1,0 +1,12 @@
+﻿@article{RN74,
+   author = {Li, B. and Xu, D. and Lin, H. and Wu, R. and Wu, S. and Shao, J. and Zhang, J. and Dai, H. and Wei, D. and Huang, B. and Gao, Z. and Diao, X.},
+   title = {Domain adaptive detection framework for multi-center bone tumor detection on radiographs},
+   journal = {Comput Med Imaging Graph},
+   volume = {123},
+   pages = {102522},
+   ISSN = {0895-6111},
+   DOI = {10.1016/j.compmedimag.2025.102522},
+   year = {2025},
+   type = {Journal Article}
+}
+
