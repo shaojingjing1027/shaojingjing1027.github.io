@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Doctor of Medicine in Diagnostic Radiology and Nuclear Medicine, Peking University Third Hospital, 2029 (expected)
-* Master of Medicine in Radiology, The First Affiliated Hospital of Sun Yat-sen University, 2025
-* Bachelor of Medicine in Radiation Medicine, Jilin University, 2021
+* Doctor of Medicine in Diagnostic Radiology and Nuclear Medicine, Peking University Third Hospital, 2025-2029 (expected)
+* Master of Medicine in Radiology, The First Affiliated Hospital of Sun Yat-sen University, 2022-2025
+* Bachelor of Medicine in Radiation Medicine, Jilin University, 2016-2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-2025: Radiology Resident Physician
+  * The First Affiliated Hospital of Sun Yat-sen University
+  * Duties includes: Writing radiology reports, creating case review presentations, and rotating through clinical departments.
+  * Supervisor: Graduate Advisor
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
+*  Skill 1
+*  Proficient in using research software such as SPSS, ITK-Snap, 3D Slicer, and Photoshop, with strong capabilities in data processing and analysis, and possessing solid English writing skills.
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Possess strong analytical and diagnostic skills for common diseases affecting the musculoskeletal, nervous, digestive, circulatory, respiratory, and urinary systems, along with the ability to differentiate rare conditions.
 * Skill 3
+* Master the fundamental concepts, research methodologies, and knowledge of image and data processing related to the application of artificial intelligence in medical imaging.
 
 Publications
 ======
