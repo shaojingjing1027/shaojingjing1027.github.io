@@ -1,0 +1,14 @@
+﻿@article{RN73,
+   author = {Xu, D. and Li, B. and Liu, W. and Wei, D. and Long, X. and Huang, T. and Lin, H. and Cao, K. and Zhong, S. and Shao, J. and Huang, B. and Diao, X. F. and Gao, Z.},
+   title = {Deep learning-based detection of primary bone tumors around the knee joint on radiographs: a multicenter study},
+   journal = {Quant Imaging Med Surg},
+   volume = {14},
+   number = {8},
+   pages = {5420-5433},
+   ISSN = {2223-4292 (Print)
+2223-4306},
+   DOI = {10.21037/qims-23-1743},
+   year = {2024},
+   type = {Journal Article}
+}
+
